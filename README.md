@@ -1,0 +1,1 @@
+# d2rcollect_lang_resources
