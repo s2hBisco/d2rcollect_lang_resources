@@ -1,0 +1,58 @@
+﻿<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<Layout_CSS>
+			<text>Diseño CSS</text>
+		</Layout_CSS>
+		<Layout1-Debtor_with_Header_and_Footer>
+			<text>Diseño 1 - Deudor con encabezado y pie de página</text>
+		</Layout1-Debtor_with_Header_and_Footer>
+		<btmcontent>
+			<text><![CDATA[<p>* Use el diseño actual para actualizar un diseño existente de la siguiente lista. Haga clic en el cuadro junto a:<br>. el encabezado,<br>. Pie de página <br>. CSS (Estilo de página)<br>Luego haga clic en el botón de<strong>[Copiar]</strong> Para actualizar el diseño seleccionado.</p>]]></text>
+		</btmcontent>
+	</language_info>	
+	<help_info>
+	
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Nombre del diseño de la plantilla</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Descripción del diseño de la plantilla</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Marque la casilla de verificación para agregar el encabezado y el pie de página en el diseño de la plantilla.</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_4</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Haga clic para agregar el contenido del diseño del encabezado y pie de página</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_5</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Ingrese los estilos CSS en este cuadro</text>
+			<time>5000</time>
+		</help_step>
+		
+	</help_info>
+</page_info>

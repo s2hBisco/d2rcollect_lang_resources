@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>
+		<Receivable>
+			<text>Recevable</text>
+		</Receivable>
+		<Debtor_List>
+			<text>Débiteur <![CDATA[ </br> ]]> liste</text>
+		</Debtor_List>
+		<Total_A_C_Balance>
+			<text>Solde total A/C</text>
+		</Total_A_C_Balance>
+		
+	</language_info>
+</page_info>

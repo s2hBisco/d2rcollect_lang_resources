@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+	</language_info>
+	<help_info>	
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Use a opção de pesquisa de devedor acima para obter os registros corrigidos</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Número do arquivo do devedor procurado</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>BL</position>
+			<text>Nome do cliente do devedor procurado</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_4</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>BL</position>
+			<text>Valor original devido</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_5</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>BL</position>
+			<text>Montante devido pelo devedor</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_6</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>BL</position>
+			<text>Status do Devedor</text>
+			<time>5000</time>
+		</help_step>
+	</help_info>
+</page_info>

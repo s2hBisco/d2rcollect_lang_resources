@@ -1,0 +1,11 @@
+﻿<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<Rate_Plans>
+			<text>Planes de tarifa</text>
+		</Rate_Plans>
+		<Unassigned_No_other_selection_accepted>
+			<text>Sin Asignar (No se acepta ninguna otra selección)</text>
+		</Unassigned_No_other_selection_accepted>
+	</language_info>	
+</page_info>

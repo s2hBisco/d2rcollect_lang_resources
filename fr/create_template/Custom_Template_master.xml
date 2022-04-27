@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<Create_and_Manage_Letters_Templates_List>
+			<text>Créer et gérer la liste des Templates de lettres</text>
+		</Create_and_Manage_Letters_Templates_List>
+
+	</language_info>	
+	<help_info>	
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Cliquez pour afficher la liste de disposition</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Cliquez pour ajouter la nouvelle lettre</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Sélectionnez un groupe de lettres pour filtrer les templates de lettre</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_4</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Nom du Template</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_5</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Cliquez sur l'icône d'impression pour afficher le modèle de lettre.</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_6</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Cliquez sur l'icône d'édition pour modifier le Template de lettre.</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_7</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Cliquez sur l'icône de copie pour dupliquer le Template de lettre.</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_8</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Cliquez sur l'icône de suppression pour supprimer l'enregistrement.</text>
+			<time>5000</time>
+		</help_step>
+		
+	</help_info>
+</page_info>

@@ -1,0 +1,28 @@
+﻿<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>
+		<Execute_Print_or_Email>
+			<text>Ejecutar impresión o correo electrónico</text>
+		</Execute_Print_or_Email>
+		<SIC_Number>
+			<text>Número SIC</text>
+		</SIC_Number>
+		<Last_A_C_Date>
+			<text>Última fecha de cuenta</text>
+		</Last_A_C_Date>
+		<Alphabetical>
+			<text>Alfabético</text>
+		</Alphabetical>
+		<No_Accounts>
+			<text>Número de cuentas</text>
+		</No_Accounts>
+		<Enter_a_subject>
+			<text>Ingrese un tema</text>
+		</Enter_a_subject>
+		
+	</language_info>
+	
+	
+
+ 
+</page_info>

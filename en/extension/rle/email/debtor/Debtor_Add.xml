@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>
+		<Debtor_Personal_Data>
+			<text>Tenant Personal Data</text>
+		</Debtor_Personal_Data>
+		<SIN_SSN>
+			<text>SIN_SSN</text>
+		</SIN_SSN>
+		<Debtor_Employment>
+			<text>Tenant Employment</text>
+		</Debtor_Employment>
+		<Date_of_Last_Payment_or_Service>
+			<text>Date of Last Payment or Service</text>
+		</Date_of_Last_Payment_or_Service>
+		<Additional_Information>
+			<text>Additional Information</text>
+		</Additional_Information>
+		<Was_this_Account_previously_listed_with_a_collection_Agency>
+			<text>Was this Account previously listed with a collection Agency</text>
+		</Was_this_Account_previously_listed_with_a_collection_Agency>
+		<Is_there_any_legal_proceeding_against_this_Account>
+			<text>Is there any legal proceeding against this Account</text>
+		</Is_there_any_legal_proceeding_against_this_Account>
+		
+	</language_info>
+</page_info>

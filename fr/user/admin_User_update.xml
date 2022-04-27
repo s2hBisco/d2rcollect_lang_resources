@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>	
+		<Add_Update_User>
+			<text>Ajouter / Mettre à jour un utilisateur</text>
+		</Add_Update_User>
+		<Employee_Setup>
+			<text>Configuration des employés</text>
+		</Employee_Setup>
+	</language_info>	
+	<help_info>	
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Entrez l'adresse email de l'utilisateur.Ia même utilisé pour le nom d'utilisateur</text>
+			<time>5000</time>
+		</help_step>			
+	</help_info>
+</page_info>

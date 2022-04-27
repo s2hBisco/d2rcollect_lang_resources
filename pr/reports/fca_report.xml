@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>	
+		<Volumes_Reporting>
+			<text>Relatório de Volumes</text>
+		</Volumes_Reporting>
+		<Accounts_Status>
+			<text>Status das Contas</text>
+		</Accounts_Status>
+		<Nbr_of_Debtors>
+			<text>Número de Devedores</text>
+		</Nbr_of_Debtors>
+		<Nbr_of_Transactions>
+			<text>Número de Transações</text>
+		</Nbr_of_Transactions>
+		<Debt_Originally_Owed>
+			<text>Divida Originalmente Devida</text>
+		</Debt_Originally_Owed>
+		<Pursued_for_Collection>
+			<text>Saldo a receber</text>
+		</Pursued_for_Collection>
+		<Nbr_of_Debt_Originally_Owed>
+			<text>Número de Dívida originalmente Devida</text>
+		</Nbr_of_Debt_Originally_Owed>
+		<Debt_Under_Collection>
+			<text>Dívida sob cobrança</text>
+		</Debt_Under_Collection>
+		<Debtors_under_collection>
+			<text>Devedores em cobrança</text>
+		</Debtors_under_collection>
+		<Debtors_Under_Collection>
+			<text>Devedores em cobrança</text>
+		</Debtors_Under_Collection>
+		<Nbr_of_Accounts_Missed_Payments>
+			<text>Número de contas com pagamentos não efetuados</text>
+		</Nbr_of_Accounts_Missed_Payments>
+		<Total_Collected>
+			<text>Total cobrado</text>
+		</Total_Collected>
+	</language_info>	
+	<help_info>	
+	<help_step>
+			<name>tour_0</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text><![CDATA[<div id='help_ins'><h6><u>INFORMAÇÃO GERAL</u></h6><br/><h6>Este relatório mostra a distribuição da carteira de contas devedoras para um período específico segundo os critérios a seguir</h6><ol><li>Do cliente para a agência: São aquelas contas com status de grupo OpenACC e ActiveACC para um intervalo de datas específico </li><li>Agência de cobrança de dívidas: contas de devedores que foram sinalizadas na página CC como REDESIGNADAS</li><li> Tribunal (após julgamento): Estas contas estão marcadas como "Legal" na página CC para um intervalo de datas específico.</li><li>Após a aplicação: são as contas com status de grupo de Conta fechada</li></ol></div>]]></text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Número de contas devedoras que se enquadram nessa categoria para esse período específico </text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Os relatórios são gerados com base no período selecionado no status do relatório</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Número total de devedores no período selecionado</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_4</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Número de Transações nesses arquivos</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_5</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Saldo inicial para as contas devedoras que se enquadram nessa categoria para esse período específico</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_6</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Número de contas devedoras que se enquadram nessa categoria para esse período específico</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_7</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Saldos totais de contas de devedores que se enquadram nessa categoria para esse período específico</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_8</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Número de contas devedoras que possuem saldos e se enquadram nessa categoria para essa data específica</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_9</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Número de promessas quebradas para pagar as contas de devedores que se enquadram nessa categoria para esse período específico</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_10</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Total de pagamentos para as contas de devedores que se enquadram nessa categoria para esse período específico</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_11</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Clique para exportar os relatórios filtrados</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_12</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Clique para imprimir os relatórios filtrados</text>
+			<time>5000</time>
+		</help_step>
+	</help_info>
+</page_info>

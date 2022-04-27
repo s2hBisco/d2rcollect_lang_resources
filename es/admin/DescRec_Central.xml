@@ -1,0 +1,29 @@
+﻿<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<System_Description_Control>
+			<text>Control de descripción del sistema</text>
+		</System_Description_Control>
+		<Description_Table>
+			<text>Tabla de descripción</text>
+		</Description_Table>
+	</language_info>	
+	<help_info>	
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Seleccione el menú para filtrar la lista de descripción.</text>
+			<time>5000</time>
+		</help_step>	
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Ingrese los campos del formulario del lado derecho para agregar un registro nuevo.</text>
+			<time>5000</time>
+		</help_step>		
+	</help_info>
+</page_info>

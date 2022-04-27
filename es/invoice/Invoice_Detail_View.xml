@@ -1,0 +1,46 @@
+﻿<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<Total_Comm_Held>
+			<text>Total de comisión retenida</text>
+		</Total_Comm_Held>
+		<Total_Comm_Due>
+			<text>Total de comisión por cobrar</text>
+		</Total_Comm_Due>
+		<Payments_Invoiced>
+			<text>Pagos facturados</text>
+		</Payments_Invoiced>
+		<Invoice_Preview>
+			<text>Vista previa de factura</text>
+		</Invoice_Preview>
+		<Choose_the_client_and_date_for_the_invoice_and_press_submit>
+			<text>Elija el cliente y la fecha de la factura y presione enviar.</text>
+		</Choose_the_client_and_date_for_the_invoice_and_press_submit>
+	</language_info>	
+	<help_info>	
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Nombre del cliente de la factura</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Fecha de la factura</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Nombre del deudor del cliente</text>
+			<time>5000</time>
+		</help_step>
+	</help_info>
+</page_info>

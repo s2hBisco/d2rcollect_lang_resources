@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>	
+		<Campaign_List>
+			<text>Campaign Steps List</text>
+		</Campaign_List>
+		<New_Steps>
+			<text>New Steps</text>
+		</New_Steps>
+		<csdeleted>
+			<text>csdeleted</text>
+		</csdeleted>
+	</language_info>	
+	<help_info>	
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>You can add new account for campaign steps</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>BL</position>
+			<text>Description of the campaign steps</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>BL</position>
+			<text>Account types</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_4</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>BR</position>
+			<text>You can view the campaign client list</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_5</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>BR</position>
+			<text>You can update the campaign steps details</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_6</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>You can move the next campaign steps list</text>
+			<time>5000</time>
+		</help_step>
+	</help_info>
+</page_info>

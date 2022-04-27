@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<Year_Over_Due>
+			<text>Non prime / (1) année en retard</text>
+		</Year_Over_Due>
+		<third_Party_listed>
+			<text>3ème partie listée</text>
+		</third_Party_listed>
+		<Breakpoint_Amount>
+			<text>Point de rupture</text>
+		</Breakpoint_Amount>
+		<Breakpoint_Commission>
+			<text>Breakpoint Commission</text>
+		</Breakpoint_Commission>
+		<Level_End_Date>
+			<text>Date de fin du niveau</text>
+		</Level_End_Date>
+	</language_info>	
+</page_info>

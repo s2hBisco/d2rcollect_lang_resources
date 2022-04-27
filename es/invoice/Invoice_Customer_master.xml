@@ -1,0 +1,11 @@
+﻿<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>	
+		<Clients_Collected_Payments>
+			<text>Pagos cobrados al cliente</text>
+		</Clients_Collected_Payments>
+		<List_All_Payments>
+			<text>Lista de todos los pagos</text>
+		</List_All_Payments>
+	</language_info>	
+</page_info>

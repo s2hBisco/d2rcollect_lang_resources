@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>
+		<Client_Management>
+			<text>Gestão de Clientes</text>
+		</Client_Management>
+		<Client_Permissions>
+			<text>Permissões de Clientes</text>
+		</Client_Permissions>
+		<Show_Hide_Memos>
+			<text>Mostrar ou ocultar notas</text>
+		</Show_Hide_Memos>
+		<Online_Username>
+			<text>Nome de usuário on-line</text>
+		</Online_Username>
+		<Plan_Description>
+			<text>Descrição do Plano</text>
+		</Plan_Description>
+		<Add_Rate_Plan>
+			<text>Adicionar plano de taxa</text>
+		</Add_Rate_Plan>
+		<Contract_Description>
+			<text>Descrição do Contrato</text>
+		</Contract_Description>
+		<Special_Note>
+			<text>Anotação Especial</text>
+		</Special_Note>
+		
+	</language_info>
+</page_info>

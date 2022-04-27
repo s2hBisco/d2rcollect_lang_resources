@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>
+		<Debtor_Personal_Data>
+			<text>Debtor Personal Data</text>
+		</Debtor_Personal_Data>
+		<SIN_SSN>
+			<text>SIN_SSN</text>
+		</SIN_SSN>
+		<Debtor_Employment>
+			<text>Debtor Employment</text>
+		</Debtor_Employment>
+		
+	</language_info>
+</page_info>

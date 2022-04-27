@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<Layout_CSS>
+			<text>Layout CSS</text>
+		</Layout_CSS>
+		<Layout1-Debtor_with_Header_and_Footer>
+			<text>Layout 1 - Devedor com Cabeçalho e Rodapé</text>
+		</Layout1-Debtor_with_Header_and_Footer>
+		<btmcontent>
+			<text><![CDATA[<p>* Use o layout atual para atualizar o Cabeçalho, Rodapé ou CSS (Estilo da Página) de outro layout existente na lista.<br>Clique na caixa de seleção relacionada e em seguida no botão <strong>Copiar</strong></p>]]></text>
+		</btmcontent>
+	</language_info>	
+	<help_info>
+	
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Nome do layout do modelo</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Descrição layout do modelo</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Marque a caixa de seleção para adicionar o cabeçalho e o rodapé no layout do modelo.</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_4</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Clique para adicionar o conteúdo do layout do cabeçalho e do rodapé</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_5</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Digite os estilos CSS nesta caixa</text>
+			<time>5000</time>
+		</help_step>
+		
+	</help_info>
+</page_info>

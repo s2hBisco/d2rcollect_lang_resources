@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<Assign_Accounts>
+			<text>Assign Accounts</text>
+		</Assign_Accounts>
+		<Automate_Assignment>
+			<text>Automate Assignment</text>
+		</Automate_Assignment>
+		<Unassigned_No_other_selection_accepted>
+			<text>Unassigned (No other selection accepted)</text>
+		</Unassigned_No_other_selection_accepted>
+		<List_Assign_Rules>
+			<text>List Assign Rules</text>
+		</List_Assign_Rules>
+		<Return_Assignment>
+			<text>Return Assignment</text>
+		</Return_Assignment>
+		<Save_Assign_Rule>
+			<text>Save Assign Rule</text>
+		</Save_Assign_Rule>
+	</language_info>	
+	<help_info>	
+		<help_step>
+			<name>tour_0</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text><![CDATA[<div id='help_ins'><h4>GENERAL INFO</h4><h4>Select Tenants Search Form</h4><ul><li>This page provides the facility for the user to assgin the collector to tenants by using search part of the screen.</li><li>As a result of the search tenants accounts will be listed.</li></ul><h4>Exexcute assign to collector</h4></div><ul><li>Select the listed tenants by using check box in the select all column.</li><li>select the collector from the 'Assign to' dropdown.</li><li>Click the Assign button to assign the collector</li></ul>]]></text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Search the tenants using given fields</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Select the listed tenants which you want to assign to the collector employee</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>choose the collector employee</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_4</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Click to assign the collector employee for selected tenants</text>
+			<time>5000</time>
+		</help_step>
+		
+	</help_info>
+</page_info>

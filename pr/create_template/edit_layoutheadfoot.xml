@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<Double-click_a_field_or_use_the_button_to_insert>
+			<text>Clique duas vezes em um campo ou use o botão para inserir</text>
+		</Double-click_a_field_or_use_the_button_to_insert>
+		<Use_button_add_the_date_of_printing>
+			<text>Use o botão para adicionar a data de impressão</text>
+		</Use_button_add_the_date_of_printing>
+		<fields_from_the_list_below>
+			<text>campos da lista abaixo.</text>
+		</fields_from_the_list_below>
+	</language_info>	
+	<help_info>
+	
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Selecione o tipo de campo. Os campos disponíveis serão exibidos na caixa Campos disponíveis.</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Clique duas vezes em um campo ou use o botão para inserir. O campo será inserido na caixa Editor.</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Clique no botão Inserir data para inserir o campo de data no layout</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_4</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>O editor é usado para adicionar conteúdo às seções de layout.</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_5</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Clique para atualizar o layout</text>
+			<time>5000</time>
+		</help_step>
+		
+	</help_info>
+</page_info>

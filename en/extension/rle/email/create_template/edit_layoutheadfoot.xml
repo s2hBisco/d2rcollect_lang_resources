@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<Double-click_a_field_or_use_the_button_to_insert>
+			<text>Double-click a field or use the button to insert</text>
+		</Double-click_a_field_or_use_the_button_to_insert>
+		<Use_button_add_the_date_of_printing>
+			<text>Use button add the date of printing</text>
+		</Use_button_add_the_date_of_printing>
+		<fields_from_the_list_below>
+			<text>fields from the list below.</text>
+		</fields_from_the_list_below>
+	</language_info>	
+	<help_info>
+	
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Select the field type. Available fields will be shows in Available Fields box.</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Double-click a field or use the button to insert. Field will be insert in Editor box.</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Click the Insert Date button to insert the date field in layout</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_4</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Editor is used to add content to the layout sections.</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_5</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Click to update the layout</text>
+			<time>5000</time>
+		</help_step>
+		
+	</help_info>
+</page_info>

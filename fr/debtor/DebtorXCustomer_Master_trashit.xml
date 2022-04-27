@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>
+		<Debtors_Trash_List>
+			<text>Liste de la Corbeille du débiteur</text>
+		</Debtors_Trash_List>
+		<Remove_Deleted>
+			<text>Supprimer</text>
+		</Remove_Deleted>		
+		
+	</language_info>
+	<help_info>	
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Cliquez pour rechercher dans la liste Corbeille des débiteurs en sélectionnant les utilisateurs et les clients.</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Nom du débiteur Supprimer</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Nom du client du débiteur</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_4</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>montant dû du débiteur</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_5</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Statut de débiteur</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_6</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Cliquez sur le bouton restituer pour restaurer le débiteur.</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_7</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>sélectionnez la case à cocher et cliquez <![CDATA[<b>Remove Deleted</b>]]> sur le bouton pour effacer définitivement les débiteurs.</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_8</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Cliquez sur le bouton Supprimer pour supprimer un débiteur individuel permanente.</text>
+			<time>5000</time>
+		</help_step>
+	</help_info>
+</page_info>

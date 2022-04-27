@@ -1,0 +1,20 @@
+﻿<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<Year_Over_Due>
+			<text>Sin Principal/(1) Año vencido</text>
+		</Year_Over_Due>
+		<third_Party_listed>
+			<text>Tercero listado</text>
+		</third_Party_listed>
+		<Breakpoint_Amount>
+			<text>Monto mínimo</text>
+		</Breakpoint_Amount>
+		<Breakpoint_Commission>
+			<text>Comisión mínima</text>
+		</Breakpoint_Commission>
+		<Level_End_Date>
+			<text>Fecha de finalización</text>
+		</Level_End_Date>
+	</language_info>	
+</page_info>

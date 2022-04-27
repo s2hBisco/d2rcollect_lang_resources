@@ -1,0 +1,147 @@
+﻿<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>	
+		<Volumes_Reporting>
+			<text>Informes de volúmenes</text>
+		</Volumes_Reporting>
+		<Accounts_Status>
+			<text>Estados de cuentas</text>
+		</Accounts_Status>
+		<Nbr_of_Debtors>
+			<text>Número de deudores</text>
+		</Nbr_of_Debtors>
+		<Nbr_of_Transactions>
+			<text>Número de transacciones</text>
+		</Nbr_of_Transactions>
+		<Debt_Originally_Owed>
+			<text>Deuda originalmente contraída</text>
+		</Debt_Originally_Owed>
+		<Pursued_for_Collection>
+			<text>Pendiente por cobrar</text>
+		</Pursued_for_Collection>
+		<Nbr_of_Debt_Originally_Owed>
+			<text>Número de deuda originalmente contraída</text>
+		</Nbr_of_Debt_Originally_Owed>
+		<Debt_Under_Collection>
+			<text>Deuda bajo cobro</text>
+		</Debt_Under_Collection>
+		<Debtors_under_collection>
+			<text>Deudores bajo cobro</text>
+		</Debtors_under_collection>
+		<Debtors_Under_Collection>
+			<text>Deudores bajo cobro</text>
+		</Debtors_Under_Collection>
+		<Nbr_of_Accounts_Missed_Payments>
+			<text>Número de cuentas con pagos no efectuados</text>
+		</Nbr_of_Accounts_Missed_Payments>
+		<Total_Collected>
+			<text>Total cobrado</text>
+		</Total_Collected>
+	</language_info>	
+	<help_info>	
+	<help_step>
+			<name>tour_0</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text><![CDATA[<div id='help_ins'><h6><u>INFO GENERAL</u></h6><br/><h6>Este informe muestra la distribucion de la cartera de cuentas deudoras para un periodo especifico segun los criterios entrados a continuacion.</h6><ol><li>Del cliente a la agencia: son aquellas cuentas con estado de grupo Cuenta Abierta y Cuenta Activa para un rango de fecha especificada </li><li>Agencia de cobro de deudas: cuentas de deudores que se han marcado en la pagina CC como REASIGNADAS </li><li> Tribunal (despues de la Sentencia): Estan marcadas esas cuentas como "Legal" en la página CC para un rango de fecha especificada</li><li>Despues de la aplicación: son aquellas cuentas con estado de grupo como Cuenta Cerrada</li></ol></div>]]></text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Número de cuentas deudoras que entran en esa categoría para ese rango de fechas específicas</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Los informes se generan en función del periodo seleccionado del estado del informe</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Número total de deudores bajo el periodo seleccionado</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_4</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Número de transacciones en esos archivos</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_5</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Saldo inicial para aquellas cuentas deudoras que entran en esa categoría para ese rango de fechas específicas</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_6</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Número de cuentas deudoras que entran en esa categoría para ese rango de fecha especificado</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_7</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Saldos totales de cuentas de deudores que entran en esa categoría para ese intervalo de fecha especificado</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_8</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Número de cuentas deudoras que tienen saldos y que entran en esa categoría para esa fecha especifica</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_9</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Número de promesas incumplidas para pagar las cuentas de los deudores que entran en esa categoría para ese intervalo de fechas especificado</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_10</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Pagos totales para aquellas cuentas deudoras que caen en esa categoria para ese rango de fecha especificadas</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_11</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Haga clic para exportar los informes filtrados</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_12</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Haga clic para imprimir los informes filtrados</text>
+			<time>5000</time>
+		</help_step>
+	</help_info>
+</page_info>

@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>
+		<Mass_Update_Status_and_Print_Letters>
+			<text>Mass Update Status and Print Letters</text>
+		</Mass_Update_Status_and_Print_Letters>
+		<Select_Debtors>
+			<text>Select Clients</text>
+		</Select_Debtors>
+		<Execute_Print_Email>
+			<text>Execute Print or Email</text>
+		</Execute_Print_Email>
+		<Amt_Owing>
+			<text>Amt Owing</text>
+		</Amt_Owing>
+		<Enter_Subject>
+			<text>Enter a subject</text>
+		</Enter_Subject>
+		<From_mail_address>
+			<text>From mail address</text>
+		</From_mail_address>
+		<fnEmailListold_confirm>
+			<text>Click <![CDATA[ &lt;ok&gt; ]]> if you want to send email to all the displayed names?</text>
+		</fnEmailListold_confirm>
+		<fnEmailSend_error1>
+			<text>No debtors were selected <![CDATA[ <br /> ]]></text>
+		</fnEmailSend_error1>
+	</language_info>
+	<help_info>
+	
+		<help_step>
+			<name>tour_0</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text><![CDATA[<div id='help_ins'><h4>GENERAL INFO</h4><h4>Select Debtors Form</h4><ul><li>This page provides the facility for the user to make a selection of Accounts by using search part of the screen.</li><li>As a result of the search accounts will be listed.</li></ul><h4>Exexcute print or email Form</h4></div><ul><li>Select Activity from activity drop down list.</li><li>Select the Letter from letter drop down list and update the status for above drop down list.</li><li>You can also exclude the listed Accounts by using the right side check box.</li><li>This is very useful for send first letter to account holders with debt balances, or sending Mass email or even sending mass SMS text.</li><li>Every status and letter changes will be updated for each specified Account. Plus, a record is add in the Notes area reflecting this activity.</li></ul>]]></text>
+			
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>You can filter the Divisions by selecting the Division account types.It will be reflect to the Division drop down list.</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<text>You can search the Clients by using Select Clients Form.</text>
+			<position>TL</position>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<text>You can exclude the account in listed accounts by using select the checkbox.</text>
+			<position>TR</position>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_4</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<text>You can print the letter for listed Accounts and details will be added the notes for listed Accounts.</text>
+			<position>TL</position>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_5</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<text>You can mail the letters to listed Accounts and details will be added the notes for listed Accounts.</text>
+			<position>TR</position>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_6</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<text>You can send the letters via SMS to listed Accounts and details will be added the notes for listed Accounts.</text>
+			<position>TR</position>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_7</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<text>Letter and activity status will be updated for listed account.</text>
+			<position>TR</position>
+			<time>5000</time>
+		</help_step>
+	</help_info>
+	
+
+ 
+</page_info>

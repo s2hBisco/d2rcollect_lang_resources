@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<Total_Comm_Held>
+			<text>Total Comm. Held</text>
+		</Total_Comm_Held>
+		<Total_Comm_Due>
+			<text>Total Comm. Due</text>
+		</Total_Comm_Due>
+		<Payments_Invoiced>
+			<text>Payments Invoiced</text>
+		</Payments_Invoiced>
+		<Invoice_Preview>
+			<text>Invoice Preview</text>
+		</Invoice_Preview>
+		<Choose_the_client_and_date_for_the_invoice_and_press_submit>
+			<text>Choose the client and date for the invoice and press submit.</text>
+		</Choose_the_client_and_date_for_the_invoice_and_press_submit>
+	</language_info>	
+	<help_info>	
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Invoice Client name</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Invoice date</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Client's debtors name</text>
+			<time>5000</time>
+		</help_step>
+	</help_info>
+</page_info>

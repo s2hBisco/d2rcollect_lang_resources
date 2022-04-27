@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>
+		<Collection_Central>
+			<text>Collection Central</text>
+		</Collection_Central>
+		<Clients_Reference>
+			<text>Student ID</text>
+		</Clients_Reference>
+		<Re-assigned>
+			<text>Re-assigned</text>
+		</Re-assigned>
+		<non-Prime_Over_1Yr>
+			<text>non-Prime/Over 1Yr</text>
+		</non-Prime_Over_1Yr>
+		<Add_to_Dialer>
+			<text>Add to Dialer</text>
+		</Add_to_Dialer>
+		<Add_Edit_Address>
+			<text>Add/Edit Address</text>
+		</Add_Edit_Address>
+		<Mail_Returned>
+			<text>Mail Returned</text>
+		</Mail_Returned>
+		<Show_Hide_Memos>
+			<text>Show|Hide Memos</text>
+		</Show_Hide_Memos>
+		<Refresh_Page>
+			<text>Refresh Page</text>
+		</Refresh_Page>
+		
+	</language_info>
+	
+</page_info>

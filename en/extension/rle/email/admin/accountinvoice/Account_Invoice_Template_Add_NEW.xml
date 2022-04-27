@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>
+		<INFO>
+			<text>Information</text>
+		</INFO>
+	</language_info>
+	<help_info>
+		<help_step>
+			<name>tour_0</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text><![CDATA[<div id='help_ins'><h4>HOW TO CREATE INVOICE TEMPLATE SET</h4><br/><h5>STEP 1 - CREATE INVOICE TEMPLATE SET</h5><ul><li>Provide data for the fields displayed on the screen. Then click on the Next button.</li></ul><h5>STEP 2 - CREATE INVOICE TEMPLATE LEVEL (INITIAL INVOICE)</h5><ul><li>Provide data for the fields displayed on the screen. Then click on the Next button.</li></ul><h5>STEP 3 - CREATE INVOICE TEMPLATE LEVEL (INTEREST ADMIN)</h5><ul><li>Provide data for the fields displayed on the screen. Then click on the Submit button.</li></ul>]]></text>
+			<time>5000</time>
+		</help_step>
+	</help_info>
+</page_info>

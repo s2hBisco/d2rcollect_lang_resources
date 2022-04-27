@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<System_Access_Modules_Permission>
+			<text>Autorisation du module d'accès au système</text>
+		</System_Access_Modules_Permission>
+		<Edit_permissions>
+			<text>Modifier les autorisations</text>
+		</Edit_permissions>
+	</language_info>	
+	<help_info>	
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Nom du module de permission</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Définir les autorisations et les options pour le module</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Cliquez sur l'icône Liste des clients pour définir l'autorisation pour des clients individuels..</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_4</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Cliquez sur l'icône Ajouter un client pour ajouter les clients pour le module de permssion..</text>
+			<time>5000</time>
+		</help_step>
+		
+	</help_info>
+</page_info>

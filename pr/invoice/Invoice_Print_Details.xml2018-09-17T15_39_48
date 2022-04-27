@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<Monthly_Invoice_List>
+			<text>Lista mensal de faturas</text>
+		</Monthly_Invoice_List>
+		<Detailed>
+			<text>Detalhado</text>
+		</Detailed>
+		<GST_HST>
+			<text>GST/HST</text>
+		</GST_HST>
+		<Cust_Ref_No>
+			<text>Número de referência do cliente</text>
+		</Cust_Ref_No>
+		<Name>
+			<text>Nome</text>
+		</Name>
+	</language_info>	
+</page_info>

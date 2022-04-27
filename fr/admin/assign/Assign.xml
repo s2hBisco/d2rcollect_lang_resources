@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<Assign_Accounts>
+			<text>Attribuer des comptes</text>
+		</Assign_Accounts>
+		<Automate_Assignment>
+			<text>Automatiser l'assignation</text>
+		</Automate_Assignment>
+		<Unassigned_No_other_selection_accepted>
+			<text>Non assigné (Aucune autre sélection acceptée)</text>
+		</Unassigned_No_other_selection_accepted>
+		<List_Assign_Rules>
+			<text>Règles d'attribution de liste</text>
+		</List_Assign_Rules>
+		<Return_Assignment>
+			<text>Affectation de retour</text>
+		</Return_Assignment>
+		<Save_Assign_Rule>
+			<text>Enregistrer la règle d'assignation</text>
+		</Save_Assign_Rule>
+	</language_info>	
+	<help_info>	
+		<help_step>
+			<name>tour_0</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text><![CDATA[<div id='help_ins'><h4>GENERAL INFO</h4><h4>Select Debtors Search Form</h4><ul><li>This page provides the facility for the user to assgin the collector to debtors by using search part of the screen.</li><li>As a result of the search debtors accounts will be listed.</li></ul><h4>Exexcute assign to collector</h4></div><ul><li>Select the listed debtors by using check box in the select all column.</li><li>select the collector from the 'Assign to' dropdown.</li><li>Click the Assign button to assign the collector</li></ul>]]></text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Rechercher les débiteurs en utilisant des champs donnés</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Sélectionnez les débiteurs que vous choisi à l'employé collecteur</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>choisir l'employé collecteur</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_4</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Cliquez pour choisi de collecteur aux débiteurs sélectionnés</text>
+			<time>5000</time>
+		</help_step>
+		
+	</help_info>
+</page_info>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<Assign_Temporary_Collector>
+			<text>Atribuir Cobrador Temporário</text>
+		</Assign_Temporary_Collector>
+		<Current_Collector>
+			<text>Cobrador Atual</text>
+		</Current_Collector>
+		<Temprory_Collector>
+			<text>Cobrador Temporário</text>
+		</Temprory_Collector>
+		<Assign_Temp>
+			<text>Atribuição Temporária</text>
+		</Assign_Temp>
+		<Assigned_Collector>
+			<text>Cobrador Atribuído</text>
+		</Assigned_Collector>
+		<Temporary_Collector>
+			<text>Cobrador Temporário</text>
+		</Temporary_Collector>
+	</language_info>	
+	<help_info>	
+		<help_step>
+			<name>tour_0</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Selecione o cobrador atribuído atualmente </text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Selecione um cobrador temporário para atribuir</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Clique para atribuir um cobrador temporário no lugar do cobrador atual.</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Clique no botão [Voltar] na opção da coluna para remover o cobrador temporário</text>
+			<time>5000</time>
+		</help_step>
+		
+	</help_info>
+</page_info>

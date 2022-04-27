@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>	
+		<Volumes_Reporting>
+			<text>Volumes Reporting</text>
+		</Volumes_Reporting>
+		<Accounts_Status>
+			<text>Accounts Status</text>
+		</Accounts_Status>
+		<Nbr_of_Debtors>
+			<text>Nbr of Tenants</text>
+		</Nbr_of_Debtors>
+		<Nbr_of_Transactions>
+			<text>Nbr of Transactions</text>
+		</Nbr_of_Transactions>
+		<Debt_Originally_Owed>
+			<text>Debt Originally Owed</text>
+		</Debt_Originally_Owed>
+		<Pursued_for_Collection>
+			<text>Pursued for Collection</text>
+		</Pursued_for_Collection>
+		<Nbr_of_Debt_Originally_Owed>
+			<text>Nbr of Debt Originally Owed</text>
+		</Nbr_of_Debt_Originally_Owed>
+		<Debt_Under_Collection>
+			<text>Debt Under Collection</text>
+		</Debt_Under_Collection>
+		<Debtors_under_collection>
+			<text>Tenants under collection</text>
+		</Debtors_under_collection>
+		<Debtors_Under_Collection>
+			<text>Tenants Under Collection</text>
+		</Debtors_Under_Collection>
+		<Nbr_of_Accounts_Missed_Payments>
+			<text>Nbr of Accounts Missed Payments</text>
+		</Nbr_of_Accounts_Missed_Payments>
+		<Total_Collected>
+			<text>Total Collected</text>
+		</Total_Collected>
+	</language_info>	
+	<help_info>	
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Filter the records using given fields </text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Reports are generated based on Report Status selected period</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Total number of tenants selected period</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_4</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Total number of tenant transactions selected period</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_5</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Total amount of debt originally owed selected period</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_6</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Total number of debt originally owed selected period</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_7</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Total amount of debt under collection selected period</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_8</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Total number of tenants under collection selected period</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_9</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Total number of tenants under collection with missed payments selected period</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_10</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Total income per placements selected period (account settled and closed)</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_11</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Click to export the filtered reports</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_12</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Click to print the filtered reports</text>
+			<time>5000</time>
+		</help_step>
+	</help_info>
+</page_info>

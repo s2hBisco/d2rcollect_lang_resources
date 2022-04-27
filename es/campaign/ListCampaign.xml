@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>	
+		<Campaign_List>
+			<text>Lista de campaña</text>
+		</Campaign_List>
+		<New_Campaign>
+			<text>Nueva campaña</text>
+		</New_Campaign>
+	</language_info>	
+	<help_info>	
+		<help_step>
+			<name>tour_0</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text><![CDATA[<div id='help_ins'><h4>Información general</h4><ul><li>Cree campañas de clientes reales y potenciales con pasos prediseñados.</li><li>Cada campaña debe tener diferentes pasos designados para un periodo de tiempo.</li><li>Cada paso disparará el envío de correos electrónicos (plantilla de formulario) a un conjunto predefinido de clientes reales y potenciales.</li><li>Diseñe correos electrónicos específicos para cada paso (marco de tiempo)</li></ul><h4>Cómo crear una nueva campaña</h4></div><ul><li>Su primera tarea es crear y agregar una nueva campaña.</li><li>Luego agregue el paso (plazos de tiempo programados) para esa campaña.</li><li>Establezca si desea que estos pasos se ejecuten diariamente, semanalmente o mensualmente.</li><li>Adjunte una plantilla de correo electrónico prediseñada a cada paso y deje que el sistema monitoree los clientes reales y potenciales.</li><li>Consulte el registro de la campaña para revisar lo que se envió y cuándo se envió.</li></ul>]]></text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Puede ver los detalles del registro de la campaña</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Puede agregar una cuenta nueva para la campaña</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>BL</position>
+			<text>Título de la campaña</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_4</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>BR</position>
+			<text>Puede actualizar los detalles de la campaña</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_5</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>BR</position>
+			<text>Puede actualizar los detalles de la campaña</text>
+			<time>5000</time>
+		</help_step>
+	</help_info>
+</page_info>

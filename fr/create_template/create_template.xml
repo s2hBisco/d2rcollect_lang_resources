@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<Edit_Letter_Template>
+			<text>Modifier le Template de lettre test321</text>
+		</Edit_Letter_Template>
+		<Print_Samples>
+			<text>Print Samples</text>
+		</Print_Samples>
+		<Insert_Debtor_Payment_List>
+			<text>Insérer la liste de paiement du débiteur</text>
+		</Insert_Debtor_Payment_List>
+		<fields_from_the_list_below>
+			<text>champs de la liste ci-dessous.</text>
+		</fields_from_the_list_below>
+		<Double-click_a_field_or_use_the_button_to_insert>
+			<text>Double-cliquez sur un champ ou utilisez le bouton pour insérer</text>
+		</Double-click_a_field_or_use_the_button_to_insert>
+	</language_info>	
+	<help_info>
+	
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Nom du Template de lettre</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Description du Template de lettre</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Ordre du Template de lettre</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_4</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Sélectionnez la catégorie du Template de lettre</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_5</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Sélectionnez la disposition du Template de lettre</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_6</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Sélectionnez le type de Template(Letter/Email or SMS)</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_7</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Sélectionnez le type de champ. Les champs disponibles seront affichés à côté pour le type de champ sélectionné.</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_8</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Double-cliquez sur un champ ou utilisez le bouton pour insérer. Le champ sera inséré dans la boîte d'éditeur.</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_9</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Cliquez sur ce bouton pour insérer la liste de paiement du débiteur dans la liste..</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_10</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Cliquez sur le bouton pour enregistrer le contenu du Template de lettre.</text>
+			<time>5000</time>
+		</help_step>
+		
+	</help_info>
+</page_info>

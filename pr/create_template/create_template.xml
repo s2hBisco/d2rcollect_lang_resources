@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<Edit_Letter_Template>
+			<text>Editar modelo de carta</text>
+		</Edit_Letter_Template>
+		<Print_Samples>
+			<text>Amostras de impressão</text>
+		</Print_Samples>
+		<Insert_Debtor_Payment_List>
+			<text>Inserir lista de pagamento do devedor</text>
+		</Insert_Debtor_Payment_List>
+		<fields_from_the_list_below>
+			<text>campos da lista abaixo</text>
+		</fields_from_the_list_below>
+		<Double-click_a_field_or_use_the_button_to_insert>
+			<text>Clique duas vezes em um campo ou use o botão para inserir</text>
+		</Double-click_a_field_or_use_the_button_to_insert>
+	</language_info>	
+	<help_info>
+	
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Nome do modelo de carta</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Descrição do modelo de carta</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Ordem do modelo de carta</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_4</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Selecione a categoria para o modelo de carta</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_5</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Selecione o layout para o modelo de carta</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_6</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Selecione o tipo de modelo (carta, e-mail ou SMS)</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_7</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Selecione o tipo de campo. Os campos disponíveis serão mostrados ao lado para o tipo de campo selecionado.</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_8</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Clique duas vezes em um campo ou use o botão para inserir. O campo será inserido no Editor.</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_9</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Clique neste botão para inserir a lista de pagamentos do devedor na lista.</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_10</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Clique no botão para salvar o conteúdo do modelo de carta.</text>
+			<time>5000</time>
+		</help_step>
+		
+	</help_info>
+</page_info>

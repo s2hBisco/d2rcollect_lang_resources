@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>	
+		<Campaign_List>
+			<text>Lista do roteiro</text>
+		</Campaign_List>
+		<New_Campaign>
+			<text>Novo roteiro</text>
+		</New_Campaign>
+	</language_info>	
+	<help_info>	
+		<help_step>
+			<name>tour_0</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text><![CDATA[<div id='help_ins'><h4>INFORMAÇÃO GERAL</h4><ul><li>Crie roteiros de clientes atuais e potenciais com passos preestabelecidos.</li><li>Cada roteiro deve ter diferentes passos designados para um período de tempo.</li><li>Cada passo enviará e-mails (modelo de formulário) a um conjunto predefinido de clientes reais e potenciais.</li><li>Crie e-mails específicos para cada passo (período de tempo)</li></ul><h4>COMO CRIAR UM ROTEIRO</h4></div><ul><li>Sua primeira tarefa é criar e adicionar um novo roteiro.</li><li>Em seguida, adicione o passo (período de tempo programado) para este roteiro.</li><li>Estabeleça se deseja que estes passos de executem diariamente, semanalmente ou mensalmente.</li><li>Anexe um modelo de e-mail criado previamente para cada passo e deixe que o sistema monitore os clientes reais e potenciais.</li><li>Consulte o registro do roteiro para revisar o que foi enviado e quando se enviou.</li></ul>]]></text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Você pode visualizar os detalhes do registro do roteiro</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Você pode adicionar uma nova conta para o roteiro</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>BL</position>
+			<text>Título do roteiro</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_4</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>BR</position>
+			<text>Você pode visualizar a lista de passos do roteiro</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_5</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>BR</position>
+			<text>Você pode atualizar os detalhes do roteiro</text>
+			<time>5000</time>
+		</help_step>
+	</help_info>
+</page_info>

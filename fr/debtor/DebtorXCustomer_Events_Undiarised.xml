@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>
+		<Un-Diarised_Clients_Debtor_List>
+			<text>Liste des débiteurs du client non préparé</text>
+		</Un-Diarised_Clients_Debtor_List>
+		<UpdateFlag>
+			<text>Mettre à jour l'indicateur</text>
+		</UpdateFlag>
+		
+	</language_info>
+</page_info>

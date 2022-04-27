@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<System_Access_Modules_Permission>
+			<text>Permissão do Módulo de Acesso ao Sistema</text>
+		</System_Access_Modules_Permission>
+		<Edit_permissions>
+			<text>Editar permissões</text>
+		</Edit_permissions>
+	</language_info>	
+	<help_info>	
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Nome do Módulo de Permissão</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Definir permissão e opções para o módulo</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Clique no ícone da lista de clientes para definir a permissão para clientes individuais.</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_4</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Clique no ícone Adicionar Cliente para adicionar os clientes ao módulo de permissão.</text>
+			<time>5000</time>
+		</help_step>
+		
+	</help_info>
+</page_info>

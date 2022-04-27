@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>
+		<Receivable>
+			<text>Cuentas por cobrar</text>
+		</Receivable>
+		<Debtor_List>
+			<text>Lista de<![CDATA[ </br> ]]>deudores</text>
+		</Debtor_List>
+		<Total_A_C_Balance>
+			<text>Balance total de la cuenta</text>
+		</Total_A_C_Balance>
+		
+	</language_info>
+</page_info>

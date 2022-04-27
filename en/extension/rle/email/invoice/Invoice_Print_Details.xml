@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<Monthly_Invoice_List>
+			<text>Monthly Invoice List</text>
+		</Monthly_Invoice_List>
+		<Detailed>
+			<text>Detailed</text>
+		</Detailed>
+		<GST_HST>
+			<text>GST/HST</text>
+		</GST_HST>
+		<Invoiced_To>
+			<text>Invoiced To</text>
+		</Invoiced_To>
+		<Invoice>
+			<text>Invoice</text>
+		</Invoice>
+		<Invoice_Date>
+			<text>Invoice Date</text>
+		</Invoice_Date>
+		<Paid_to>
+			<text>Paid to</text>
+		</Paid_to>
+		<Comm>
+			<text>Comm/Fees</text>
+		</Comm>
+		<Ln>
+			<text>Ln</text>
+		</Ln>
+		<Cust_Ref_No>
+			<text>CustRefNo</text>
+		</Cust_Ref_No>
+		<Debtor>
+			<text>Tenant</text>
+		</Debtor>
+		<Date>
+			<text>Date</text>
+		</Date>
+		<Type>
+			<text>Type</text>
+		</Type>
+		<Status>
+			<text>Status</text>
+		</Status>
+		<Rate>
+			<text>Rate</text>
+		</Rate>
+		<Client>
+			<text>Site/Bldg</text>
+		</Client>
+		<Agency>
+			<text>Agency</text>
+		</Agency>
+		<Due>
+			<text>Due</text>
+		</Due>
+		<Held>
+			<text>Held</text>
+		</Held>
+		<Sub_Total>
+			<text>Sub Total</text>
+		</Sub_Total>
+		<Gross_Total>
+			<text>Gross Total</text>
+		</Gross_Total>
+		<Total_Debts_Collected_at_Client>
+			<text>Total Debts Collected at Site/Bldg</text>
+		</Total_Debts_Collected_at_Client>
+		<Total_Debts_Collected_at_Agency>
+			<text>Total Debts Collected at Agency</text>
+		</Total_Debts_Collected_at_Agency>
+		<Commission_Earned_by_Agency>
+			<text>Commission/Fees Earned by Agency</text>
+		</Commission_Earned_by_Agency>
+		<Commission_Paid_From_Trust_Fund>
+			<text>Commission/Fees Paid From Trust Fund</text>
+		</Commission_Paid_From_Trust_Fund>
+                <Total_Tax>
+			<text>Total Tax</text>
+		</Total_Tax>
+                <Payable_To_Agency>
+			<text>Balance payable back to Agency</text>
+		</Payable_To_Agency>
+                <Commission_Earned_At_Agency>
+			<text>Commission Earned at Agency</text>
+		</Commission_Earned_At_Agency>
+                <Commission_Earned_At_Client>
+			<text>Commission Earned at Site/Bldg</text>
+		</Commission_Earned_At_Client>
+                <Initiate_Cheque_Printing_Process>
+			<text>Initiate Cheque Printing Process</text>
+		</Initiate_Cheque_Printing_Process>
+                <Enter_Starting_Cheque_Number>
+			<text>Enter Starting Cheque Number</text>
+		</Enter_Starting_Cheque_Number>
+		<Print>
+			<text>Print</text>
+		</Print>
+	</language_info>	
+</page_info>

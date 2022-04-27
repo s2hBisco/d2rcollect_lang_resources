@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>	
+		<Campaign_List>
+			<text>Campaign List</text>
+		</Campaign_List>
+		<New_Campaign>
+			<text>New Campaign</text>
+		</New_Campaign>
+	</language_info>	
+	<help_info>	
+		<help_step>
+			<name>tour_0</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text><![CDATA[<div id='help_ins'><h4>GENERAL INFO</h4><ul><li>Create Leads/Clients campaigns with predesigned steps.</li><li>Each Campaign needs to have different steps designated for a time period.</li><li>Each step will send emails (Form template) to predefined set of leads, potential clients or clients.</li><li>Design targeted emails for each step (time frame)</li></ul><h4>HOW TO CREATE A CAMPAIGN</h4></div><ul><li>Your first task is to create a add a new Campaign.</li><li>Then add step (schedule time frames) for that Campaign.</li><li>Spread the steps on daily, weekly, or monthly basis.</li><li>Attach a pre-created email template to each step and let the system monitor leads, potential clients or clients.</li><li>Check the campaign log to review what was sent and when was it sent.</li></ul>]]></text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>You can view the campaign log details</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>You can add new account for campaign</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>BL</position>
+			<text>Tiltle of the campaign</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_4</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>BR</position>
+			<text>You can view the campaign step list</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_5</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>BR</position>
+			<text>You can update the campaign details</text>
+			<time>5000</time>
+		</help_step>
+	</help_info>
+</page_info>

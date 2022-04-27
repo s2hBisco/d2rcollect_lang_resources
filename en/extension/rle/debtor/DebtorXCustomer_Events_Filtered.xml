@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>
+		<Calendar_Events_List>
+			<text>Calendar Events List</text>
+		</Calendar_Events_List>
+		<Appointments>
+			<text>Appointments</text>
+		</Appointments>
+		<Service_Rep_ID>
+			<text>Service Rep ID</text>
+		</Service_Rep_ID>
+	</language_info>
+</page_info>

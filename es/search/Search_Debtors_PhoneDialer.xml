@@ -1,0 +1,53 @@
+﻿<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<Search_Phone_Dialers>
+			<text>Buscar operadores telefónicos</text>
+		</Search_Phone_Dialers>
+		<Only_Dialable>
+			<text>Solo marcable<![CDATA[<br />]]>(Sin seleccionar busca todo)</text>
+		</Only_Dialable>
+	</language_info>
+	<help_info>	
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Use la opción de búsqueda de operadores telefónicos para obtener los registros relacionados</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Haga clic para borrar todos los valores de los campos de búsqueda</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Ingrese el nombre de la lista buscada</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_4</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Puede guardar el historial de búsqueda con este botón</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_5</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Haga clic en este botón para administrar la lista de historial de búsqueda guardada</text>
+			<time>5000</time>
+		</help_step>
+	</help_info>
+</page_info>

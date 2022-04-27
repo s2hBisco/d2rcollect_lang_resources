@@ -1,0 +1,83 @@
+﻿<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<Monthly_Invoice_List>
+			<text>Lista mensual de facturas</text>
+		</Monthly_Invoice_List>
+		<Detailed>
+			<text>A detalle</text>
+		</Detailed>
+		<GST_HST>
+			<text>GST/HST</text>
+		</GST_HST>
+		<Invoiced_To>
+			<text>Facturado a</text>
+		</Invoiced_To>
+		<Invoice>
+			<text>Factura</text>
+		</Invoice>
+		<Invoice_Date>
+			<text>Fecha de factura</text>
+		</Invoice_Date>
+		<Paid_to>
+			<text>Pagado a</text>
+		</Paid_to>
+		<Comm>
+			<text>Com</text>
+		</Comm>
+		<Ln>
+			<text>Ln</text>
+		</Ln>
+		<Cust_Ref_No>
+			<text>Número de referencia del cliente</text>
+		</Cust_Ref_No>
+		<Debtor>
+			<text>Deudor</text>
+		</Debtor>
+		<Date>
+			<text>Fecha</text>
+		</Date>
+		<Type>
+			<text>Tipo</text>
+		</Type>
+		<Status>
+			<text>Estado</text>
+		</Status>
+		<Rate>
+			<text>Tarifa</text>
+		</Rate>
+		<Client>
+			<text>Cliente</text>
+		</Client>
+		<Agency>
+			<text>Agencia</text>
+		</Agency>
+		<Due>
+			<text>Por cobrar</text>
+		</Due>
+		<Held>
+			<text>Retenido</text>
+		</Held>
+		<Sub_Total>
+			<text>Subtotal</text>
+		</Sub_Total>
+		<Gross_Total>
+			<text>Total bruto</text>
+		</Gross_Total>
+		<Total_Debts_Collected_at_Client>
+			<text>Total de deudas cobradas al cliente</text>
+		</Total_Debts_Collected_at_Client>
+		<Total_Debts_Collected_at_Agency>
+			<text>Total de deudas cobradas a la agencia</text>
+		</Total_Debts_Collected_at_Agency>
+		<Commission_Earned_by_Agency>
+			<text>Comisión cobrada por la agencia</text>
+		</Commission_Earned_by_Agency>
+		<Commission_Paid_From_Trust_Fund>
+			<text>Comisión pagada del fondo fiduciario</text>
+		</Commission_Paid_From_Trust_Fund>
+		<Print>
+			<text>Imprimir</text>
+		</Print>
+	</language_info>	
+</page_info>

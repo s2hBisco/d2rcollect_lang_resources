@@ -1,0 +1,66 @@
+﻿<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<Assign_Accounts>
+			<text>Asignar cuentas</text>
+		</Assign_Accounts>
+		<Automate_Assignment>
+			<text>Automatizar asignación</text>
+		</Automate_Assignment>
+		<Unassigned_No_other_selection_accepted>
+			<text>No asignado (Ninguna otra selección aceptada)</text>
+		</Unassigned_No_other_selection_accepted>
+		<List_Assign_Rules>
+			<text>Reglas de Lista de asignación</text>
+		</List_Assign_Rules>
+		<Return_Assignment>
+			<text>Regresar asignación</text>
+		</Return_Assignment>
+		<Save_Assign_Rule>
+			<text>Guardar regla de asignación</text>
+		</Save_Assign_Rule>
+	</language_info>	
+	<help_info>	
+		<help_step>
+			<name>tour_0</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text><![CDATA[<div id='help_ins'><h4>Información general</h4><h4>Seleccione los deudores en el formato de búsqueda</h4><ul><li>Esta página permite al usuario asignar un gestor de cobranza a los deudores usando la sección de busqueda en la pantalla.</li><li>Como resultado de la búsqueda, se listarán las cuentas de los deudores.</li></ul><h4>Ejecutar Asignar al gestor de cobranza</h4></div><ul><li>Seleccione los deudores listados usando la casilla de verificación en la columna de Seleccionar todo.</li><li>Seleccione el gestor del menú 'Asignar a'.</li><li>Haga clic en el botón de Asignar para elegir el gestor</li></ul>]]></text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Buscar los deudores usando los campos proporcionados</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Seleccione los deudores de la lista que desea asignar al gestor de cobranza.</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Elija el gestor de cobranza</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_4</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Haga clic para asignar el gestor de cobranza para los deudores seleccionados</text>
+			<time>5000</time>
+		</help_step>
+		
+	</help_info>
+</page_info>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<Assign_Temporary_Collector>
+			<text>Assign Temporary Collector</text>
+		</Assign_Temporary_Collector>
+		<Current_Collector>
+			<text>Current Collector</text>
+		</Current_Collector>
+		<Temprory_Collector>
+			<text>Temprory Collector</text>
+		</Temprory_Collector>
+		<Assign_Temp>
+			<text>Assign Temp</text>
+		</Assign_Temp>
+		<Assigned_Collector>
+			<text>Assigned Collector</text>
+		</Assigned_Collector>
+		<Temporary_Collector>
+			<text>Temporary Collector</text>
+		</Temporary_Collector>
+	</language_info>	
+	<help_info>	
+		<help_step>
+			<name>tour_0</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Select current assigned collector </text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Select temporary collector to assign</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Click to assign temporary collector instead of current collector.</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Click [Return] button in option cloumn to remove temporary collector</text>
+			<time>5000</time>
+		</help_step>
+		
+	</help_info>
+</page_info>

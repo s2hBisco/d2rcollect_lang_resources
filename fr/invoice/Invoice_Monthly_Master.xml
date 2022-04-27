@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<Monthly_Invoice_List>
+			<text>Liste de factures mensuelle</text>
+		</Monthly_Invoice_List>
+		<Detailed>
+			<text>Détaillé</text>
+		</Detailed>
+		<GST_HST>
+			<text>GST/HST</text>
+		</GST_HST>
+	</language_info>	
+</page_info>

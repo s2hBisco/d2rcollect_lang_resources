@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>
+		<Payments_Transactions_List>
+			<text>Lista de pagos o transacciones</text>
+		</Payments_Transactions_List>
+		<Payments_Posted>
+			<text>Pagos publicados</text>
+		</Payments_Posted>
+		<Payments_Invoiced>
+			<text>Pagos facturados</text>
+		</Payments_Invoiced>
+		
+	</language_info>
+</page_info>

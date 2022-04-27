@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>
+		<Payments_Due_Calendar_Dates>
+			<text>Payments Due List</text>
+		</Payments_Due_Calendar_Dates>
+		<Cal_User>
+			<text>Cal User</text>
+		</Cal_User>
+		<Comm>
+			<text>Comm.</text>
+		</Comm>
+		<Pay_Amt>
+			<text>Pay Amt</text>
+		</Pay_Amt>
+		<EmpId>
+			<text>EmpId</text>
+		</EmpId>
+		
+		
+	</language_info>
+</page_info>

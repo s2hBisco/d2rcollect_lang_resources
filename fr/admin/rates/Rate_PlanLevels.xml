@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<BP_Amount>
+			<text>BP <![CDATA[<br>]]>Montant</text>
+		</BP_Amount>	
+		<BP_Comm>
+			<text>BP <![CDATA[<br>]]>Commission</text>
+		</BP_Comm>
+	</language_info>	
+</page_info>

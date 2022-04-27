@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>	
+		<only_posted_Invoices>
+			<text>Apenas faturas lançadas</text>
+		</only_posted_Invoices>
+		<Add_Receipt>
+			<text>Adidionar recibo</text>
+		</Add_Receipt>
+	</language_info>	
+	<help_info>	
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Selecione o nome do cliente e você receberá a fatura relacionada para o cliente selecionado.<![CDATA[<br>]]> Adicione o recibo escolhendo a identificação da fatura relacionada</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Selecione o tipo de pagamento para o recibo</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Data de pagamento</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_4</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Adicionar quantia para o recebimento</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_5</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Método de pagamento para comprovante de pagamento</text>
+			<time>5000</time>
+		</help_step>
+	</help_info>
+</page_info>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>
+		<Update_Debtor_File>
+			<text>Mettre à jour le fichier du débiteur</text>
+		</Update_Debtor_File>
+		<Settlement_Amount>
+			<text>Montant offert</text>
+		</Settlement_Amount>
+		<one_year>
+			<text>1 an</text>
+		</one_year>
+		<third_Party>
+			<text>3ème partie</text>
+		</third_Party>
+		<Court_order>
+			<text>Ordonnance du tribunal</text>
+		</Court_order>
+		<Save_Settle_A_C>
+			<text>sauver <![CDATA[&]]> Régler A/C</text>
+		</Save_Settle_A_C>
+		
+	</language_info>
+</page_info>

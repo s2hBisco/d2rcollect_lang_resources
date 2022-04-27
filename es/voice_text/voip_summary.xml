@@ -1,0 +1,56 @@
+﻿<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<VOIP_Summary>
+			<text>Resumen de VOIP</text>
+		</VOIP_Summary>
+		<Summary_Chart>
+			<text>Cuadro resumen</text>
+		</Summary_Chart>
+		<mooo_3alla_rasi>
+			<text>mooo 3alla rasi</text>
+		</mooo_3alla_rasi>
+	</language_info>	
+	<help_info>	
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Estadísticas del uso general para SMS, número telefónico y minutos de voz por VOIP.<![CDATA[<br>]]>Eje X basado en el periodo del mes.<![CDATA[<br>]]>Eje Y basado en el conteo del uso de VOIP</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Productos VOIP basados en los meses</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Precio medio del producto</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_4</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Cantidad total para el producto</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_5</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Cantidad total mensual de productos VOIP</text>
+			<time>5000</time>
+		</help_step>
+	</help_info>
+</page_info>

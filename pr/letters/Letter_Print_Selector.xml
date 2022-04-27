@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>
+		<Mass_Update_Status_and_Print_Letters>
+			<text>Status de atualização em passa e impressão de cartas</text>
+		</Mass_Update_Status_and_Print_Letters>
+		<Select_Debtors>
+			<text>Selecionar devedores</text>
+		</Select_Debtors>
+		<Execute_Print_Email>
+			<text>Executar impressão ou e-mail</text>
+		</Execute_Print_Email>
+		<Amt_Owing>
+			<text>Amt Devido</text>
+		</Amt_Owing>
+		<Enter_Subject>
+			<text>Adicione um assunto</text>
+		</Enter_Subject>
+		<From_mail_address>
+			<text>Do endereço de -email</text>
+		</From_mail_address>
+		<fnEmailListold_confirm>
+			<text>Clique <![CDATA[ &lt;ok&gt; ]]> se você deseja enviar e-mail para todos os nomes selecionados</text>
+		</fnEmailListold_confirm>
+		<fnEmailSend_error1>
+			<text>Nenhum devedor foi selecionado<![CDATA[ <br /> ]]></text>
+		</fnEmailSend_error1>
+	</language_info>
+	<help_info>
+	
+		<help_step>
+			<name>tour_0</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text><![CDATA[<div id='help_ins'><h4>INFORMAÇÃO GERAL</h4><h4>Formulário de seleção de devedores</h4><ul><li>Esta página fornece a facilidade ao usuário para que ele faça uma seleção de contas utilizando a parte de pesquisa da tela.</li><li>Como resultado da pesquisa, as contas serão listadas.</li></ul><h4>Executar formulário de e-mail ou impressão</h4></div><ul><li>Selecione atividade da lista suspensa de atividades.</li><li>Selecione a carta da lista suspensa de carta e atualize o status para a lista abaixo.</li><li>Você também pode excluir as contas listasas utilizando a caixa de seleção ao lado direito.</li><li>Este recurso é muito útil para enviar a primeira carta a titulares de contas com saldos devedores, ou enviar e-mail e até mesmo SMS em massa.</li><li>Todas as alterações de status e letras serõa atualizadas para cada conta especificada. Além disso, um registro é adicionado na área Notas, refletindo esta atividade.</li></ul>]]></text>
+			
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Você pode filtrar os clientes selecionando os tipos de conta do cliente. Isso será refletido na lista suspensa do cliente.</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<text>Você pode pesquisar os devedores utilizando o formulário de seleção de devedores.</text>
+			<position>TL</position>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<text>Você pode excluir a conta das contas listadas utilizando a caixa de seleção.</text>
+			<position>TR</position>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_4</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<text>Você pode imprimir a carta para as contas listadas e os detalhes serão adicionados às notas das contas listadas.</text>
+			<position>TL</position>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_5</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<text>Você pode enviar as cartas para as contas listadas e os detalhes serão adicionados às notas das contas listadas.</text>
+			<position>TR</position>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_6</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<text>Você pode enviar as cartas via SMS para as contas listadas e detalhes serão adicionados às notas para as contas listadas.</text>
+			<position>TR</position>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_7</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<text>A carta e o status da atividade serão atualizados para a conta listada.</text>
+			<position>TR</position>
+			<time>5000</time>
+		</help_step>
+	</help_info>
+	
+
+ 
+</page_info>

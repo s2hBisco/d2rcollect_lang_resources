@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>
+		<Client_Management>
+			<text>La gestion des clients</text>
+		</Client_Management>
+		<Client_Permissions>
+			<text>Autorisations de client</text>
+		</Client_Permissions>
+		<Show_Hide_Memos>
+			<text>Afficher|Masquer les mémos</text>
+		</Show_Hide_Memos>
+		<Online_Username>
+			<text>Online Nom d'utilisateur</text>
+		</Online_Username>
+		<Plan_Description>
+			<text>Description du plan</text>
+		</Plan_Description>
+		<Add_Rate_Plan>
+			<text>Ajouter un plan tarifaire</text>
+		</Add_Rate_Plan>
+		<Contract_Description>
+			<text>Description du contrat</text>
+		</Contract_Description>
+		<Special_Note>
+			<text>Note spéciale</text>
+		</Special_Note>
+		
+	</language_info>
+</page_info>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<Double-click_a_field_or_use_the_button_to_insert>
+			<text>Double-cliquez sur un champ ou utilisez le bouton pour insérer</text>
+		</Double-click_a_field_or_use_the_button_to_insert>
+		<Use_button_add_the_date_of_printing>
+			<text>Utilisez le bouton ajouter la date d'impression</text>
+		</Use_button_add_the_date_of_printing>
+		<fields_from_the_list_below>
+			<text>champs de la liste ci-dessous.</text>
+		</fields_from_the_list_below>
+	</language_info>	
+	<help_info>
+	
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Sélectionnez le type de champ. Les champs disponibles seront affichés dans la zone Champs disponibles.</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Double-cliquez sur un champ ou utilisez le bouton pour insérer. Le champ sera inséré dans l'éditeur.</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Cliquez sur le bouton Insérer une date pour insérer le champ de date dans la mise en page.</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_4</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>L'éditeur est utilisé pour ajouter du contenu aux sections de mise en page.</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_5</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Cliquez pour mettre à jour la mise en page</text>
+			<time>5000</time>
+		</help_step>
+		
+	</help_info>
+</page_info>

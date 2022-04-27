@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>
+		<Collection_Central>
+			<text>Collection Central</text>
+		</Collection_Central>
+		<Clients_Reference>
+			<text>Référence du client</text>
+		</Clients_Reference>
+		<Re-assigned>
+			<text>réaffecté</text>
+		</Re-assigned>
+		<non-Prime_Over_1Yr>
+			<text>non prime / plus d'un an</text>
+		</non-Prime_Over_1Yr>
+		<Add_to_Dialer>
+			<text>Ajouter au appel</text>
+		</Add_to_Dialer>
+		<Add_Edit_Address>
+			<text>Ajouter / Modifier l'adresse</text>
+		</Add_Edit_Address>
+		<Mail_Returned>
+			<text>Courrier retourné</text>
+		</Mail_Returned>
+		<Show_Hide_Memos>
+			<text>Afficher | Masquer les mémos</text>
+		</Show_Hide_Memos>
+		<Refresh_Page>
+			<text>Rafraîchir la page</text>
+		</Refresh_Page>
+		<AGN>
+			<text>AGN</text>
+		</AGN>
+		<Customer_Contact_Info>
+			<text>Informations de contact client</text>
+		</Customer_Contact_Info>
+		<Edit_Custom_Fields_Description_and_Order>
+			<text>Modifier les champs personnalisés Description et ordre</text>
+		</Edit_Custom_Fields_Description_and_Order>
+		
+	</language_info>
+	
+</page_info>

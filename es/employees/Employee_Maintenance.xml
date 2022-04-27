@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>	
+		<Add_Update_Employee>
+			<text>Agregar /actualizar empleado</text>
+		</Add_Update_Employee>
+		<Click_here_to_Add_New_Employee>
+			<text>Haga clic aqui para agregar un nuevo empleado</text>
+		</Click_here_to_Add_New_Employee>
+	</language_info>	
+	<help_info>	
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Para agregar empleados, no elija la opción desplegable de empleados e ingrese los detalles de los empleados para actualizar al empleado. Elija el menú desplegable de Empleados para editar los detalles del empleado</text>
+			<time>5000</time>
+		</help_step>		
+	</help_info>
+</page_info>

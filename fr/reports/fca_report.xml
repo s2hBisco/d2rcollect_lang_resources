@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>	
+		<Volumes_Reporting>
+			<text>Rapport de volumes</text>
+		</Volumes_Reporting>
+		<Accounts_Status>
+			<text>Etat des comptes</text>
+		</Accounts_Status>
+		<Nbr_of_Debtors>
+			<text>Nbr de débiteurs</text>
+		</Nbr_of_Debtors>
+		<Nbr_of_Transactions>
+			<text>Nbr des transactions</text>
+		</Nbr_of_Transactions>
+		<Debt_Originally_Owed>
+			<text>Dette originairement due</text>
+		</Debt_Originally_Owed>
+		<Pursued_for_Collection>
+			<text>Poursuivi a collection</text>
+		</Pursued_for_Collection>
+		<Nbr_of_Debt_Originally_Owed>
+			<text>Nbr de la dette due à l'origine</text>
+		</Nbr_of_Debt_Originally_Owed>
+		<Debt_Under_Collection>
+			<text>Dette en cours de recouvrement</text>
+		</Debt_Under_Collection>
+		<Debtors_under_collection>
+			<text>Débiteurs en recouvrement</text>
+		</Debtors_under_collection>
+		<Debtors_Under_Collection>
+			<text>Débiteurs en recouvrement</text>
+		</Debtors_Under_Collection>
+		<Nbr_of_Accounts_Missed_Payments>
+			<text>Nbr des comptes avec paiements manqués</text>
+		</Nbr_of_Accounts_Missed_Payments>
+		<Total_Collected>
+			<text>Total Collecté</text>
+		</Total_Collected>
+	</language_info>	
+	<help_info>	
+	<help_step>
+			<name>tour_0</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text><![CDATA[<div id='help_ins'><h6><u>GENERAL INFO</u></h6><br/><h6>This report shows you the distribution of debtor accounts portfolio for a specific period based on the below criteria</h6><ol><li>From Customer to Agency: Are those Accounts with Group Status OpenACC and ActiveACC for a specific date range </li><li>Debt Collection Agency: Debtor accounts that have been flagged in CC page as RE-ASSIGNED</li><li> Court (after Judgement): Are those accounts with their "Legal" on CC page being Ticked for a specific date range</li><li>After enforcement: Are those accounts with Group Status as ClosedACC</li></ol></div>]]></text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Nombre de comptes débiteurs appartenant à cette catégorie pour cette intervalle de dates spécifique</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Les rapports sont générés en fonction de la période sélectionnée</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Nombre total de débiteurs pour le période sélectionnés</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_4</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Nombre de transactions à ces fichiers</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_5</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Solde initial pour les comptes débiteurs appartenant à cette catégorie pour cette intervalle de dates spécifique</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_6</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Nombre de comptes débiteurs appartenant à cette catégorie pour cette intervalle de dates spécifique</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_7</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Soldes totaux des comptes de débiteurs appartenant à cette catégorie pour cette intervalle de dates spécifique</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_8</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Nombre de comptes débiteurs ayant des soldes et qui entrent dans cette catégorie pour cette date spécifique</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_9</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Nombre de promesses non tenues à payer pour les comptes de débiteurs qui entrent dans cette catégorie pour cette intervalle de dates spécifique</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_10</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Total des paiements pour les comptes débiteurs qui entrent dans cette catégorie pour cette intervalle de dates spécifique</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_11</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Cliquez pour exporter les rapports filtrés</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_12</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Cliquez pour imprimer les rapports filtrés</text>
+			<time>5000</time>
+		</help_step>
+	</help_info>
+</page_info>

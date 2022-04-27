@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>
+		<Update_Debtor_File>
+			<text>Actualizar archivo del deudor</text>
+		</Update_Debtor_File>
+		<Settlement_Amount>
+			<text>Cantidad ofrecida</text>
+		</Settlement_Amount>
+		<one_year>
+			<text>1 Año</text>
+		</one_year>
+		<third_Party>
+			<text>Terceros</text>
+		</third_Party>
+		<Court_order>
+			<text>Orden de juzgado</text>
+		</Court_order>
+		<Save_Settle_A_C>
+			<text>Guardar <![CDATA[&]]> Liquidar cuenta</text>
+		</Save_Settle_A_C>
+		
+	</language_info>
+</page_info>

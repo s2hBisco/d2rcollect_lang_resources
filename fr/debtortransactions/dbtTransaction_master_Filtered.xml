@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>
+		<Debtor_Transactions>
+			<text>Transactions de débiteurs</text>
+		</Debtor_Transactions>
+		<Gateway_Payments>
+			<text>Paiements Gateway</text>
+		</Gateway_Payments>
+		<Request_Payment>
+			<text>Demander de paiement</text>
+		</Request_Payment>
+		
+	</language_info>
+</page_info>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<Go_To_Customer>
+			<text>Go to division edit page and select the Division Type.</text>
+		</Go_To_Customer>
+		<Recent_News>
+			<text>Recent News</text>
+		</Recent_News>
+		<Reminders_List>
+			<text>Reminders List</text>
+		</Reminders_List>
+		<This_Weeks_Calendar_of_Accounts>
+			<text>This Week's Calendar of Accounts</text>
+		</This_Weeks_Calendar_of_Accounts>
+	
+	</language_info>	
+</page_info>

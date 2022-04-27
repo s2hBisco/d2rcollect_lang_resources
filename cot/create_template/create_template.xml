@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<Edit_Letter_Template>
+			<text>Edit Letter Template test321</text>
+		</Edit_Letter_Template>
+		<Print_Samples>
+			<text>Print Samples</text>
+		</Print_Samples>
+		<Insert_Debtor_Payment_List>
+			<text>Insert Debtor Payment List</text>
+		</Insert_Debtor_Payment_List>
+		<fields_from_the_list_below>
+			<text>fields from the list below.</text>
+		</fields_from_the_list_below>
+		<Double-click_a_field_or_use_the_button_to_insert>
+			<text>Double-click a field or use the button to insert</text>
+		</Double-click_a_field_or_use_the_button_to_insert>
+	</language_info>	
+	<help_info>
+	
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Name of the letter template</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Letter template description</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Order of the letter template</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_4</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Select the category to the letter template</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_5</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Select the layout to the letter template</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_6</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Select the template type(Letter/Email or SMS)</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_7</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Select the field type. Available fields will be shown in next to it for selected field type.</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_8</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Double-click a field or use the button to insert. Field will be insert in Editor box.</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_9</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Click this button to insert the Debtor payment list in list.</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_10</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Click the button to save the letter template contents.</text>
+			<time>5000</time>
+		</help_step>
+		
+	</help_info>
+</page_info>

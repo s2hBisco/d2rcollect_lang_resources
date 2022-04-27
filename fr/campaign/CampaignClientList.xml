@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>	
+		<Campaign_List>
+			<text>Liste des étapes de la campagne</text>
+		</Campaign_List>
+		<New_Steps>
+			<text>Nouvelles étapes</text>
+		</New_Steps>
+		<csdeleted>
+			<text>cssupprimé</text>
+		</csdeleted>
+	</language_info>	
+	<help_info>	
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Nom du client de la campagne</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>ID de mail du client</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Date de création du client</text>
+			<time>5000</time>
+		</help_step>
+	</help_info>
+</page_info>

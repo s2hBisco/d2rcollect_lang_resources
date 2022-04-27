@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<Related_Files>
+			<text>Carnet d'adresses</text>
+		</Related_Files>
+		<Phone_Book>
+			<text>Répertoire Téléphonique</text>
+		</Phone_Book>
+	</language_info>	
+	<help_info>	
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Choisissez l'une des options de recherche dans le bouton et tapez pour recherche les  enregistrements associés</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Recherche le Type d'utilisateur</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Détails recherchés</text>
+			<time>5000</time>
+		</help_step>
+	</help_info>
+</page_info>

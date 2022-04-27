@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>	
+		<Volumes_Reporting>
+			<text>Relatório de Volumes</text>
+		</Volumes_Reporting>
+		<Accounts_Status>
+			<text>Status das Contas</text>
+		</Accounts_Status>
+		<Nbr_of_Debtors>
+			<text>Número de Devedores</text>
+		</Nbr_of_Debtors>
+		<Nbr_of_Transactions>
+			<text>Número de Transações</text>
+		</Nbr_of_Transactions>
+		<Debt_Originally_Owed>
+			<text>Divida Originalmente Devida</text>
+		</Debt_Originally_Owed>
+		<Pursued_for_Collection>
+			<text>Saldo a receber</text>
+		</Pursued_for_Collection>
+		<Nbr_of_Debt_Originally_Owed>
+			<text>Número de Dívida originalmente Devida</text>
+		</Nbr_of_Debt_Originally_Owed>
+		<Debt_Under_Collection>
+			<text>Dívida sob cobrança</text>
+		</Debt_Under_Collection>
+		<Debtors_under_collection>
+			<text>Devedores em cobrança</text>
+		</Debtors_under_collection>
+		<Debtors_Under_Collection>
+			<text>Devedores em cobrança</text>
+		</Debtors_Under_Collection>
+		<Nbr_of_Accounts_Missed_Payments>
+			<text>Número de contas com pagamentos não efetuados</text>
+		</Nbr_of_Accounts_Missed_Payments>
+		<Total_Collected>
+			<text>Total cobrado</text>
+		</Total_Collected>
+	</language_info>	
+	<help_info>	
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Filtrar os registros usando determinados campos </text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Os relatórios são gerados com base no período selecionado no status do relatório</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Número total de devedores no período selecionado</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_4</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Número total de operações do devedor no período selecionado</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_5</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Montante total da dívida originalmente devida no período selecionado</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_6</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Número total de dívida originalmente devida no período selecionado</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_7</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Quantia total da dívida em período selecionado de cobrança</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_8</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Número total de devedores em período selecionado da cobrança</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_9</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Número total de devedores com falta de pagamento em cobrança no período selecionado</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_10</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Renda total por período selecionado de canais (conta liquidada e fechada)</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_11</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Clique para exportar os relatórios filtrados</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_12</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Clique para imprimir os relatórios filtrados</text>
+			<time>5000</time>
+		</help_step>
+	</help_info>
+</page_info>

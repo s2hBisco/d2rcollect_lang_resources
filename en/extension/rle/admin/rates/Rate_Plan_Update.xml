@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<Dont_call_before>
+			<text>Don’t call before (# days)</text>
+		</Dont_call_before>
+	</language_info>	
+</page_info>

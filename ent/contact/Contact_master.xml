@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<Contact_List_Clients_and_Debtors>
+			<text>Contact List (Divisions and Clients)</text>
+		</Contact_List_Clients_and_Debtors>
+		<Contact_Last_First_Name>
+			<text>Contact (Last, First Name)</text>
+		</Contact_Last_First_Name>	
+		<Job_Title>
+			<text>Job Title</text>
+		</Job_Title>	
+	
+	</language_info>	
+</page_info>

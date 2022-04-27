@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>
+		<Clients_Debtor_List>
+			<text>Provider Debt List</text>
+		</Clients_Debtor_List>
+		<Assigned>
+			<text>Assigned</text>
+		</Assigned>
+		<View_Trash>
+			<text>View Trash</text>
+		</View_Trash>
+		<Service_Rep_ID>
+			<text>Service Rep ID</text>
+		</Service_Rep_ID>
+		
+		
+		
+	</language_info>
+</page_info>

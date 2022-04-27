@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>
+		<Update_Debtor_File>
+			<text>Update Debtor File</text>
+		</Update_Debtor_File>
+		<Settlement_Amount>
+			<text>Settlement Amount</text>
+		</Settlement_Amount>
+		<one_year>
+			<text>1 year</text>
+		</one_year>
+		<third_Party>
+			<text>3rd Party</text>
+		</third_Party>
+		<Court_order>
+			<text>Court order</text>
+		</Court_order>
+		<Dialer>
+			<text>Dialer</text>
+		</Dialer>
+		
+	</language_info>
+</page_info>

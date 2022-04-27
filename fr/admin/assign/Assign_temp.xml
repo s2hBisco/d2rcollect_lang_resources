@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<Assign_Temporary_Collector>
+			<text>Affecter un collecteur temporaire</text>
+		</Assign_Temporary_Collector>
+		<Current_Collector>
+			<text>Collecteur de courant</text>
+		</Current_Collector>
+		<Temprory_Collector>
+			<text>Collecteur Temporaire</text>
+		</Temprory_Collector>
+		<Assign_Temp>
+			<text>Attribuer Temporaire</text>
+		</Assign_Temp>
+		<Assigned_Collector>
+			<text>Collecteur Assigné</text>
+		</Assigned_Collector>
+		<Temporary_Collector>
+			<text>Collecteur Temporaire</text>
+		</Temporary_Collector>
+	</language_info>	
+	<help_info>	
+		<help_step>
+			<name>tour_0</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Sélectionner un collecteur actuellement assigné </text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Sélectionnez le collecteur temporaire à affecter</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Cliquez pour affecter un collecteur temporaire au lieu du collecteur actuel.</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Cliquez sur le bouton [Retour] dans l'option Cloumn pour supprimer le collecteur temporaire.</text>
+			<time>5000</time>
+		</help_step>
+		
+	</help_info>
+</page_info>

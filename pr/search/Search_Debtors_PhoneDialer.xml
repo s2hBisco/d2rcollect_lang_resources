@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<Search_Phone_Dialers>
+			<text>Pesquisar operadores telefônicos</text>
+		</Search_Phone_Dialers>
+		<Only_Dialable>
+			<text>Apenas marcação<![CDATA[<br />]]>(Desmarcar produrar todos)</text>
+		</Only_Dialable>
+	</language_info>
+	<help_info>	
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Use a opção de discagem telefônica acima para obter os registros relacionados</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Clique para limpar todos os valores dos campos de pesquisa acima</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Digite o nome da lista pesquisada</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_4</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Você pode salvar o histórico pesquisado usando este botão</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_5</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Clique neste botão para gerenciar a lista do histórico de pesquisas salvas</text>
+			<time>5000</time>
+		</help_step>
+	</help_info>
+</page_info>

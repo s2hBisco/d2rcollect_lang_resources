@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>
+		<Mass_Update_Status_and_Print_Letters>
+			<text>Mise à jour en masse et lettres imprimées</text>
+		</Mass_Update_Status_and_Print_Letters>
+		<Select_Debtors>
+			<text>Sélectionnez les débiteurs</text>
+		</Select_Debtors>
+		<Execute_Print_Email>
+			<text>Exécuter Imprimer ou Email</text>
+		</Execute_Print_Email>
+		<Amt_Owing>
+			<text>Montant dû</text>
+		</Amt_Owing>
+		<Enter_Subject>
+			<text>Entrez un sujet</text>
+		</Enter_Subject>
+		<From_mail_address>
+			<text>De l'adresse mail</text>
+		</From_mail_address>
+		<fnEmailListold_confirm>
+			<text>Cliquez sur <![CDATA[ &lt;ok&gt; ]]> si vous voulez envoyer un email à tous les noms affichés?</text>
+		</fnEmailListold_confirm>
+		<fnEmailSend_error1>
+			<text>Aucun débiteur sélectionné <![CDATA[ <br /> ]]></text>
+		</fnEmailSend_error1>
+	</language_info>
+	<help_info>
+	
+		<help_step>
+			<name>tour_0</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text><![CDATA[<div id='help_ins'><h4>INFORMATIONS GÉNÉRALES</h4><h4>Formulaire de sélection de débiteurs</h4><ul><li>Cette page permet à l'utilisateur de sélectionner des comptes à l'aide de la partie de recherche de l'écran.</li><li>À la suite de la recherche, les comptes seront listés.</li></ul><h4>Exécuter imprimé ou le courriel formulaire</h4></div><ul><li>Sélectionnez Activité dans la liste d'activité.</li><li>Sélectionnez Lettre de la liste et mettez à jour le statut de la liste déroulante ci-dessus.</li><li>Vous pouvez également exclure des comptes de la liste en utilisant la case à droite..</li><li>Ceci est très utile pour envoyer la première lettre aux titulaires de comptes ayant des dettes, pour envoyer des e-mails en masse ou même pour envoyer des SMS en masse.</li><li>Chaque changement de statut et de lettre sera mis à jour pour chaque compte spécifié. De plus, un enregistrement est ajouté dans la zone Notes reflétant cette activité..</li></ul>]]></text>
+			
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Vous pouvez filtrer les clients en sélectionnant les types de comptes clients. La liste sera reflétée dans la liste des clients.</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<text>Vous pouvez rechercher les débiteurs en utilisant le formulaire de sélection de débiteurs</text>
+			<position>TL</position>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<text>Vous pouvez exclure le compte dans les comptes listés en utilisant la case à cocher.</text>
+			<position>TR</position>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_4</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<text>Vous pouvez imprimer la lettre pour les comptes listés et des détails seront ajoutés aux notes pour les comptes listés..</text>
+			<position>TL</position>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_5</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<text>Vous pouvez envoyer les lettres aux comptes de la liste et les détails seront ajoutés aux notes relatives aux comptes.</text>
+			<position>TR</position>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_6</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<text>Vous pouvez envoyer les lettres par SMS aux comptes en liste. Des détails seront ajoutés aux notes des comptes en liste.</text>
+			<position>TR</position>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_7</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<text>Le statut de la lettre et de l'activité sera mis à jour pour le compte en liste.</text>
+			<position>TR</position>
+			<time>5000</time>
+		</help_step>
+	</help_info>
+	
+
+ 
+</page_info>

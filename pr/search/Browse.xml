@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<Related_Files>
+			<text>Lista de Endereços</text>
+		</Related_Files>
+		<Phone_Book>
+			<text>Lista de Telefone</text>
+		</Phone_Book>
+	</language_info>	
+	<help_info>	
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Escolha qualquer uma das opções de pesquisa no botão de opções e escreva a palavra relacionada no campo se busca para pesquisar os registros relacionados</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Tipos de usuário pesquisado</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Detalhes Pesquisados</text>
+			<time>5000</time>
+		</help_step>
+	</help_info>
+</page_info>

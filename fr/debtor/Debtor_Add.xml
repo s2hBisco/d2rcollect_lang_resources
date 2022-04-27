@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>
+		<Debtor_Personal_Data>
+			<text>Données personnelles du débiteur</text>
+		</Debtor_Personal_Data>
+		<SIN_SSN>
+			<text>SIN_SSN</text>
+		</SIN_SSN>
+		<Debtor_Employment>
+			<text>Emploi de débiteur</text>
+		</Debtor_Employment>
+		<Date_of_Last_Payment_or_Service>
+			<text>Date du dernier paiement ou service</text>
+		</Date_of_Last_Payment_or_Service>
+		<Additional_Information>
+			<text>Information additionnelle</text>
+		</Additional_Information>
+		<Was_this_Account_previously_listed_with_a_collection_Agency>
+			<text>Ce compte a-t-il déjà été inscrit auprès d'une agence de recouvrement</text>
+		</Was_this_Account_previously_listed_with_a_collection_Agency>
+		<Is_there_any_legal_proceeding_against_this_Account>
+			<text>Existe-t-il une procédure judiciaire contre ce compte</text>
+		</Is_there_any_legal_proceeding_against_this_Account>
+		
+	</language_info>
+</page_info>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<Assign_Accounts>
+			<text>Atribuir Contas</text>
+		</Assign_Accounts>
+		<Automate_Assignment>
+			<text>Automatizar Atribuição</text>
+		</Automate_Assignment>
+		<Unassigned_No_other_selection_accepted>
+			<text>Não Atribuído (Nenhuma outra seleção aceita)</text>
+		</Unassigned_No_other_selection_accepted>
+		<List_Assign_Rules>
+			<text>Lista de Regras Atribuídas</text>
+		</List_Assign_Rules>
+		<Return_Assignment>
+			<text>Voltar Atribuição</text>
+		</Return_Assignment>
+		<Save_Assign_Rule>
+			<text>Salvar Regra Atribuída</text>
+		</Save_Assign_Rule>
+	</language_info>	
+	<help_info>	
+		<help_step>
+			<name>tour_0</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text><![CDATA[<div id='help_ins'><h4>INFORMAÇÕES GERAIS</h4><h4>Selecione o Formulário de Busca de Devedores</h4><ul><li>Esta página proporciona facilidade para que o usuário atribua o cobrador aos devedores usando a parte de busca da tela.</li><li>Como resultado da pesquisa, as contas dos devedores serão listadas.</li></ul><h4>Executar Atribuir ao Cobrador</h4></div><ul><li>Selecione os devedores listados usando a caixa de seleção na coluna Selecionar Todos.</li><li>Selecione o cobrador no menu 'Atribuir a'.</li><li>Clique no botão Atribuir para atribuir o cobrador</li></ul>]]></text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Procurar devedores usando determinados campos</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Selecionar devedores listados que você deseja atribuir para os cobradores</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Escolha o cobrador</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_4</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Clique para atribuir o cobrador para os devedores selecionados</text>
+			<time>5000</time>
+		</help_step>
+		
+	</help_info>
+</page_info>

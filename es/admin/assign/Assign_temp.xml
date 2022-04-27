@@ -1,0 +1,58 @@
+﻿<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<Assign_Temporary_Collector>
+			<text>Asignar gestor de cobranza temporal</text>
+		</Assign_Temporary_Collector>
+		<Current_Collector>
+			<text>Gestor de cobranza actual</text>
+		</Current_Collector>
+		<Temprory_Collector>
+			<text>Gestor de cobranza temporal</text>
+		</Temprory_Collector>
+		<Assign_Temp>
+			<text>Asignar gestor temporal</text>
+		</Assign_Temp>
+		<Assigned_Collector>
+			<text>Gestor de cobranza asignado</text>
+		</Assigned_Collector>
+		<Temporary_Collector>
+			<text>Gestor de cobranza temporal</text>
+		</Temporary_Collector>
+	</language_info>	
+	<help_info>	
+		<help_step>
+			<name>tour_0</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Selecione el gestor asignado actualmente </text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Seleccionar el gestor temporal para asignación</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Haga clic para asignar el gestor temporal en lugar del gestor actual.</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Haga clic en el botón [Volver] en la opción de la columna para eliminar el gestor temporal</text>
+			<time>5000</time>
+		</help_step>
+		
+	</help_info>
+</page_info>

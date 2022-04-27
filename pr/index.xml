@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<Go_To_Customer>
+			<text>Vá a página de editar seção e selecione o tipo de seção.</text>
+		</Go_To_Customer>
+		<Recent_News>
+			<text>Notícias Recentes</text>
+		</Recent_News>
+		<Reminders_List>
+			<text>Lista de Lembretes</text>
+		</Reminders_List>
+		<This_Weeks_Calendar_of_Accounts>
+			<text>Calendário de contas desta semana</text>
+		</This_Weeks_Calendar_of_Accounts>
+	
+	</language_info>	
+</page_info>

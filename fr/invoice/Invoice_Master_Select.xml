@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>	
+            <View_and_Post>
+			<text>Vue &amp; Poster</text>
+	    </View_and_Post>	
+            <Submit>
+			<text>Soumettre</text>
+	    </Submit>	
+            <Invoice_List>
+			<text>Liste de facture</text>
+	    </Invoice_List>	
+            
+            <Create>
+			<text>Créer</text>
+	    </Create>
+            <Client>
+			<text>Client</text>
+	    </Client>
+            <All>
+			<text>Tout</text>
+	    </All>
+            <From_Date>
+			<text>Partir de la date</text>
+	    </From_Date>
+            <To_Date>
+			<text>À date</text>
+	    </To_Date>
+            <Invoice>
+			<text>Facture</text>
+	    </Invoice>
+            <Date>
+			<text>Date</text>
+	    </Date>
+            <Dr>
+			<text>Débit</text>
+	    </Dr>
+            <Cr>
+			<text>Crédit</text>
+	    </Cr>
+            <Comm_Dr>
+			<text>Commission Débit</text>
+	    </Comm_Dr>
+            <Comm_Cr>
+			<text>Commission Crédit</text>
+	    </Comm_Cr>
+            <Status>
+			<text>Statut</text>
+	    </Status>
+	</language_info>	
+</page_info>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<System_Access_Modules_Permission>
+			<text>System Access Module's Permission</text>
+		</System_Access_Modules_Permission>
+		<Edit_permissions>
+			<text>Edit permissions</text>
+		</Edit_permissions>
+	</language_info>	
+</page_info>

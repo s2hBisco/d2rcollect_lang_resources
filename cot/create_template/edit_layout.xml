@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<page_info>
+	<language_info>		
+		<Layout_CSS>
+			<text>Layout CSS</text>
+		</Layout_CSS>
+		<Layout1-Debtor_with_Header_and_Footer>
+			<text>Layout 1 - Debtor with Header and Footer</text>
+		</Layout1-Debtor_with_Header_and_Footer>
+		<btmcontent>
+			<text><![CDATA[<p>* Use the current layout design to update the Header, Footer or CSS (Page Style) of another page layout from the list.<br>Click on the related check box and then <strong>Copy</strong></p>]]></text>
+		</btmcontent>
+	</language_info>	
+	<help_info>
+	
+		<help_step>
+			<name>tour_1</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Name of the template layout</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_2</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Template layout description</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_3</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Checked the checkbox to add the header and footer in template layout.</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_4</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TL</position>
+			<text>Click to add the header and footer layout content</text>
+			<time>5000</time>
+		</help_step>
+		<help_step>
+			<name>tour_5</name>
+			<bgcolor>#36454F</bgcolor>
+			<color>white</color>
+			<position>TR</position>
+			<text>Enter the CSS styles in this box</text>
+			<time>5000</time>
+		</help_step>
+		
+	</help_info>
+</page_info>
